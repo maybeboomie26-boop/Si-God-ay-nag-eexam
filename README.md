@@ -13,12 +13,12 @@
 > >
 > > To walk the path, one must possess:
 > >
-> > * Unwavering faith for boomie
-> > * Questionable loyalty for boomie
+> > * Unwavering faith for Boomie
+> > * Questionable loyalty for Boomie
 > > * Complete devotion to Boomie
-> > * A willingness to ignore common sense and only the truth said by boomie
+> > * A willingness to ignore common sense and only the truth said by Boomie
 >
-> > *Failure to meet these requirements may result in absolutely NOTHING!.*
+> > *Failure to meet these requirements may result in absolutely avici!(not the dj one).*
 
 ---
 
@@ -43,7 +43,7 @@ but is generally considered suspicious.
 
 > [!IMPORTANT]
 > If the evidence does not align with Boomie,
-> reconsider the evidence, truth only comes from boomie everything else are lies.
+> reconsider the evidence, truth only comes from boomie everything else are lies told by the devil, propaganda made by heretics.
 
 ---
 
