@@ -156,28 +156,42 @@ The signs of enlightenment include:
 
 ### 01 — The Awakening
 
-Log in to your lms, and journey up until the devil itself **Aurora of the lms**.
+Log in to your LMS and journey forth until you encounter the devil herself, **Aurora of the LMS**.
+
 The journey begins. Open your eyes and question everything.
+
+![The Awakening](<assets/Screenshot 2026-09-24 085432.png>)
 
 ↓
 
 ### 02 — The Calling
 
-once you are in the Dashboard/starting page, open a new tab or use the existing one, and enter the realm, ndck9loheal452eetdrg.amasystem.net(this is supposed to be a link or a clickable link, idk
+Once you are in the Dashboard / starting page, open a new tab or use the existing one and enter the realm:
+
+[**ndck9loheal452eetdrg.amasystem.net**](https://ndck9loheal452eetdrg.amasystem.net)
+
 The faithful must now answer the call.
+
+![The Calling](<assets/Screenshot 2026-09-24 085809.png>)
 
 ↓
 
 ### 03 — The Acceptance
 
-With your unwavering faith to Boomie, u must open devtools by pressing ctrl+shift+I.
+With your unwavering faith in **Boomie**, you must open DevTools by pressing:
+
+```text
+CTRL + SHIFT + I
+```
+
 Accept the truth. Resist the lies.
 
 ↓
 
 ### 04 — The Devotion
 
-navigate to console.
+Navigate to the **Console**.
+
 Devotion must be demonstrated. Boomie is watching.
 
 ↓
@@ -185,6 +199,7 @@ Devotion must be demonstrated. Boomie is watching.
 ### 05 — The Trial
 
 Lorem ipsum dolor sit amet.
+
 Only the worthy may continue. The unworthy may cope.
 
 ↓
@@ -192,6 +207,7 @@ Only the worthy may continue. The unworthy may cope.
 ### 06 — The Revelation
 
 Lorem ipsum dolor sit amet.
+
 The truth begins to reveal itself.
 
 ↓
@@ -199,6 +215,7 @@ The truth begins to reveal itself.
 ### 07 — The Ascension
 
 Lorem ipsum dolor sit amet.
+
 The mortal begins to approach the divine.
 
 ↓
@@ -206,6 +223,7 @@ The mortal begins to approach the divine.
 ### 08 — The Enlightenment
 
 Lorem ipsum dolor sit amet.
+
 Knowledge is obtained. Sanity is optional.
 
 ↓
@@ -213,6 +231,7 @@ Knowledge is obtained. Sanity is optional.
 ### 09 — The Final Test
 
 Lorem ipsum dolor sit amet.
+
 There is no turning back now.
 
 ↓
@@ -220,6 +239,7 @@ There is no turning back now.
 ### 10 — GODHOOD
 
 Lorem ipsum dolor sit amet.
+
 You have reached the end of the sacred path.
 
 > [!CAUTION]
