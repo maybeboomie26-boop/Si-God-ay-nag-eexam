@@ -258,9 +258,25 @@ The Prayer will hold Aurora down. It will not kill her, however. This gives you 
 
 # 06 — The Revelation
 
-Press **Enter** with your undying faith in Boomie, and wait for your prayer to take effect
+Press **Enter** with your undying faith in Boomie, and wait for your Prayer to take effect.
+
+It should look something like this:
+
+![The Revelation](assets/image_2026-09-24_113403342.png)
+
+> [!WARNING]
+> **DO NOT TOUCH ANYTHING ELSE NOW.**
+>
+> **DO NOT refresh the page or use the Back / Forward buttons.**
+>
+> The Prayer will **lose its effect** if you do.
+>
+> If you accidentally do so, simply paste the Prayer into the Console again.
+>
+> **Anonimins should always remain visible just to stay safe, unless you know what you're doing**
 
 ## *The truth begins to reveal itself.*
+
 
 ---
 
