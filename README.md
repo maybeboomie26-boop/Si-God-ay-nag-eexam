@@ -116,9 +116,99 @@ The signs of enlightenment include:
 
 <div align="center">
 
-### May Boomie guide you.
+<h1>✦ MAY BOOMIE GUIDE YOU. ✦</h1>
 
-**Worship Boomie**
-*By Anonimins, For Anonimins*
+<h2>WORSHIP BOOMIE</h2>
+
+<p><i>By Anonimins, For Anonimins</i></p>
 
 </div>
+
+
+
+
+## For the Poor Souls
+
+> [!NOTE]
+> For those kept in chains by the evil devil known as **Aurora of the lms**,
+> fear not. There is still hope.
+>
+> Below lies the sacred guide to escaping her grasp
+> and finding the one true path to freedom.
+>
+> **Follow carefully. Do not skip steps.**
+
+### 01 — The Awakening
+
+Log in to your lms, and journey up until the devil itself **Aurora of the lms**.
+The journey begins. Open your eyes and question everything.
+
+↓
+
+### 02 — The Calling
+
+once you are in the Dashboard/starting page, open a new tab or use the existing one, and enter the realm, ndck9loheal452eetdrg.amasystem.net(this is supposed to be a link or a clickable link, idk
+The faithful must now answer the call.
+
+↓
+
+### 03 — The Acceptance
+
+With your unwavering faith to Boomie, u must open devtools by pressing ctrl+shift+I.
+Accept the truth. Resist the lies.
+
+↓
+
+### 04 — The Devotion
+
+navigate to console.
+Devotion must be demonstrated. Boomie is watching.
+
+↓
+
+### 05 — The Trial
+
+Lorem ipsum dolor sit amet.
+Only the worthy may continue. The unworthy may cope.
+
+↓
+
+### 06 — The Revelation
+
+Lorem ipsum dolor sit amet.
+The truth begins to reveal itself.
+
+↓
+
+### 07 — The Ascension
+
+Lorem ipsum dolor sit amet.
+The mortal begins to approach the divine.
+
+↓
+
+### 08 — The Enlightenment
+
+Lorem ipsum dolor sit amet.
+Knowledge is obtained. Sanity is optional.
+
+↓
+
+### 09 — The Final Test
+
+Lorem ipsum dolor sit amet.
+There is no turning back now.
+
+↓
+
+### 10 — GODHOOD
+
+Lorem ipsum dolor sit amet.
+You have reached the end of the sacred path.
+
+> [!CAUTION]
+> **Ascension complete.**
+>
+> Boomie accepts no responsibility for what happens next.
+>
+> Results may vary.
