@@ -162,7 +162,7 @@ The journey begins. Open your eyes and question everything.
 
 ![The Awakening](<assets/Screenshot 2026-09-24 085432.png>)
 
-↓
+---
 
 ### 02 — The Calling
 
@@ -174,7 +174,7 @@ The faithful must now answer the call.
 
 ![The Calling](<assets/Screenshot 2026-09-24 085809.png>)
 
-↓
+---
 
 ### 03 — The Acceptance
 
@@ -186,20 +186,41 @@ CTRL + SHIFT + I
 
 Accept the truth. Resist the lies.
 
-↓
+---
 
 ### 04 — The Devotion
 
 Navigate to the **Console**.
 
+![The Console](assets/image_2026-09-24_093200243.png)
+
+> [!WARNING]
+> You may see a warning in the Console.
+>
+> **Do not fret. Boomie shall protect you.**
+>
+> Follow the instructions shown by the page before continuing.
+
+![Console Warning](assets/image_2026-09-24_093444951.png)
+
+**When instructed by the browser, type:**
+
+```text
+allow pasting
+```
+
+>[!IMPORTANT]
+> **MAKE SURE YOU ARE ACTUALLY IN THE CONSOLE BEFORE TYPING ANYTHING.**
+>
+> Don't be stupid. Read what the browser is telling you first.
+
 Devotion must be demonstrated. Boomie is watching.
 
-↓
+---
 
 ### 05 — The Trial
 
 Lorem ipsum dolor sit amet.
-
 Only the worthy may continue. The unworthy may cope.
 
 ↓
@@ -207,7 +228,6 @@ Only the worthy may continue. The unworthy may cope.
 ### 06 — The Revelation
 
 Lorem ipsum dolor sit amet.
-
 The truth begins to reveal itself.
 
 ↓
@@ -215,7 +235,6 @@ The truth begins to reveal itself.
 ### 07 — The Ascension
 
 Lorem ipsum dolor sit amet.
-
 The mortal begins to approach the divine.
 
 ↓
@@ -223,7 +242,6 @@ The mortal begins to approach the divine.
 ### 08 — The Enlightenment
 
 Lorem ipsum dolor sit amet.
-
 Knowledge is obtained. Sanity is optional.
 
 ↓
@@ -231,7 +249,6 @@ Knowledge is obtained. Sanity is optional.
 ### 09 — The Final Test
 
 Lorem ipsum dolor sit amet.
-
 There is no turning back now.
 
 ↓
@@ -239,7 +256,6 @@ There is no turning back now.
 ### 10 — GODHOOD
 
 Lorem ipsum dolor sit amet.
-
 You have reached the end of the sacred path.
 
 > [!CAUTION]
@@ -248,3 +264,4 @@ You have reached the end of the sacred path.
 > Boomie accepts no responsibility for what happens next.
 >
 > Results may vary.
+
