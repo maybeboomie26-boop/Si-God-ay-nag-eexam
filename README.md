@@ -158,7 +158,7 @@ The signs of enlightenment include:
 
 Log in to your LMS and journey forth until you encounter the devil herself, **Aurora of the LMS**.
 
-The journey begins. Open your eyes and question everything.
+"The journey begins. Open your eyes and question everything."
 
 ![The Awakening](<assets/Screenshot 2026-09-24 085432.png>)
 
@@ -170,7 +170,7 @@ Once you are in the Dashboard / starting page, open a new tab or use the existin
 
 [**ndck9loheal452eetdrg.amasystem.net**](https://ndck9loheal452eetdrg.amasystem.net)
 
-The faithful must now answer the call.
+"The faithful must now answer the call."
 
 ![The Calling](<assets/Screenshot 2026-09-24 085809.png>)
 
@@ -184,7 +184,7 @@ With your unwavering faith in **Boomie**, you must open DevTools by pressing:
 CTRL + SHIFT + I
 ```
 
-Accept the truth. Resist the lies.
+"Accept the truth. Resist the lies."
 
 ---
 
@@ -214,7 +214,7 @@ allow pasting
 >
 > Don't be stupid. Read what the browser is telling you first.
 
-Devotion must be demonstrated. Boomie is watching.
+"Devotion must be demonstrated. Boomie is watching."
 
 ---
 
@@ -227,11 +227,11 @@ Once you are in the Console, take the **Prayer** and paste it into the Console.
 The Prayer will hold Aurora down. It will not kill her, however. This gives you enough time to enter the gates of the LMS without harm — aka, pwede ka nang mag-alt-tab and stuff.
 
 > [!WARNING]
-> Make sure you understand what you are pasting into the Console before running it.
->
-> **Don't be stupid. Read the instructions.**
+> Learn how to use github please, i dont want another email asking how to do this and that.
+> Yes the prayer is the (function(blahblahblah all that shit..
+> **Don't be stupid. Read the instructions. It is written so that even a basic fool can understand it**
 
-Only the worthy may continue. The unworthy may cope.
+"Only the worthy may continue. The unworthy may cope."
 
 ---
 
