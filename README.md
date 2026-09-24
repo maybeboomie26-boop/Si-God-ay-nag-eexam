@@ -220,42 +220,57 @@ Devotion must be demonstrated. Boomie is watching.
 
 ### 05 — The Trial
 
-Lorem ipsum dolor sit amet.
+Once you are in the Console, take the **Prayer** and paste it into the Console.
+
+[**Prayer**](Prayer) (obv u click the blue text saying prayer... nasa tabi nito btw....)
+
+The Prayer will hold Aurora down. It will not kill her, however. This gives you enough time to enter the gates of the LMS without harm — aka, pwede ka nang mag-alt-tab and stuff.
+
+> [!WARNING]
+> Make sure you understand what you are pasting into the Console before running it.
+>
+> **Don't be stupid. Read the instructions.**
+
 Only the worthy may continue. The unworthy may cope.
 
-↓
+---
 
 ### 06 — The Revelation
 
 Lorem ipsum dolor sit amet.
+
 The truth begins to reveal itself.
 
-↓
+---
 
 ### 07 — The Ascension
 
 Lorem ipsum dolor sit amet.
+
 The mortal begins to approach the divine.
 
-↓
+---
 
 ### 08 — The Enlightenment
 
 Lorem ipsum dolor sit amet.
+
 Knowledge is obtained. Sanity is optional.
 
-↓
+---
 
 ### 09 — The Final Test
 
 Lorem ipsum dolor sit amet.
+
 There is no turning back now.
 
-↓
+---
 
 ### 10 — GODHOOD
 
 Lorem ipsum dolor sit amet.
+
 You have reached the end of the sacred path.
 
 > [!CAUTION]
@@ -264,4 +279,3 @@ You have reached the end of the sacred path.
 > Boomie accepts no responsibility for what happens next.
 >
 > Results may vary.
-
