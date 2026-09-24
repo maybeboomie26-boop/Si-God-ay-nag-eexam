@@ -154,29 +154,29 @@ The signs of enlightenment include:
 >
 > **Follow carefully. Do not skip steps.**
 
-### 01 — The Awakening
+# 01 — The Awakening
 
 Log in to your LMS and journey forth until you encounter the devil herself, **Aurora of the LMS**.
 
-"The journey begins. Open your eyes and question everything."
+## "The journey begins. Open your eyes and question everything."
 
 ![The Awakening](<assets/Screenshot 2026-09-24 085432.png>)
 
 ---
 
-### 02 — The Calling
+# 02 — The Calling
 
 Once you are in the Dashboard / starting page, open a new tab or use the existing one and enter the realm:
 
 [**ndck9loheal452eetdrg.amasystem.net**](https://ndck9loheal452eetdrg.amasystem.net)
 
-"The faithful must now answer the call."
+## "The faithful must now answer the call."
 
 ![The Calling](<assets/Screenshot 2026-09-24 085809.png>)
 
 ---
 
-### 03 — The Acceptance
+# 03 — The Acceptance
 
 With your unwavering faith in **Boomie**, you must open DevTools by pressing:
 
@@ -184,11 +184,11 @@ With your unwavering faith in **Boomie**, you must open DevTools by pressing:
 CTRL + SHIFT + I
 ```
 
-"Accept the truth. Resist the lies."
+## "Accept the truth. Resist the lies."
 
 ---
 
-### 04 — The Devotion
+# 04 — The Devotion
 
 Navigate to the **Console**.
 
@@ -214,38 +214,69 @@ allow pasting
 >
 > Don't be stupid. Read what the browser is telling you first.
 
-"Devotion must be demonstrated. Boomie is watching."
+## "Devotion must be demonstrated. Boomie is watching."
 
 ---
 
-### 05 — The Trial
+# 05 — The Trial
 
 Once you are in the Console, take the **Prayer** and paste it into the Console.
 
-[**Prayer**](Prayer) (obv u click the blue text saying prayer... nasa tabi nito btw... come back sa README.md saying this just incase mwala ka which should be impossible... unless sped ka...)
+It should look something like this:
+
+[**Prayer**](Prayer)
+
+![Prayer in Console](assets/image_2026-09-24_104934727.png)
+
+> Click the blue **Prayer** text above to open the Prayer.
+>
+> And if you somehow get lost:
+>
+> **Come back to `README.md`.**
+>
+> Which should be impossible...
+> unless sped ka.
 
 The Prayer will hold Aurora down. It will not kill her, however. This gives you enough time to enter the gates of the LMS without harm — aka, pwede ka nang mag-alt-tab and stuff.
 
 > [!WARNING]
-> Learn how to use github please, i dont want another email asking how to do this and that.
-> Yes the prayer is the (function(blahblahblah all that shit..
-> **Don't be stupid. Read the instructions. It is written so that even a basic fool can understand it**
+> **Please learn how to use GitHub.**
+>
+> I do not want another email asking how to do this,
+> how to do that, or where the big blue button went.
+>
+> Yes, the Prayer is the
+> `(function(blahblahblah...))` thing you are about to paste.
+>
+> **Don't be stupid. Read the instructions.**
+>
+> It is written so that even a basic fool can understand it.
 
-"Only the worthy may continue. The unworthy may cope."
+## *Only the worthy may continue. The unworthy may cope.*
 
 ---
 
-### 06 — The Revelation
+# 06 — The Revelation
 
-Lorem ipsum dolor sit amet.
+Press **Enter** with your undying faith in Boomie, and wait for your prayer to take effect
 
-The truth begins to reveal itself.
+## *The truth begins to reveal itself.*
 
 ---
 
-### 07 — The Ascension
+### 07 — The Ascension to Anonimism
 
-Lorem ipsum dolor sit amet.
+Welcome to the promised land of **Boomie**:
+
+**Anonimins.**
+
+> [!TIP]
+> Once you see the promised land where Boomie resides,
+> you have officially reached the next stage.
+
+Test it on a quiz once you arrive.
+
+> **P.S.** This also works on exams.
 
 The mortal begins to approach the divine.
 
@@ -253,29 +284,52 @@ The mortal begins to approach the divine.
 
 ### 08 — The Enlightenment
 
-Lorem ipsum dolor sit amet.
+If you have confidently followed the guide and it still does not work:
 
-Knowledge is obtained. Sanity is optional.
+**Contact me.**
+
+* Instagram: `BoomieLost`
+* Discord: `boomiewashere_78318`
+
+Knowledge is obtained.
+
+Sanity is optional.
 
 ---
 
 ### 09 — The Final Test
 
-Lorem ipsum dolor sit amet.
+You have entered the sacred land of **Anonimins**.
+
+By doing so, you have pledged your loyalty
+and belief in **Anonimism**, our sacred religion.
 
 There is no turning back now.
 
+Find me in the **tall.scans.rocked** to realize
+and obtain the greatest gift of life.
+
+# 10 — THE ASCENSION
+
+> *“The system may deny the truth. Boomie does not.”*
+> *“They can silence the words. They cannot silence the idea.”*
+> *“They may hide the path. Boomie already knows the way.”*
+
 ---
 
-### 10 — GODHOOD
-
-Lorem ipsum dolor sit amet.
-
-You have reached the end of the sacred path.
+**We are Boomie.**
+**We believe in Anonimism.**
 
 > [!CAUTION]
-> **Ascension complete.**
 >
-> Boomie accepts no responsibility for what happens next.
+> ## The Journey Is Complete
 >
-> Results may vary.
+> You have reached the end of the path.
+>
+> The truth has been revealed.
+> The doctrine has been followed.
+> The ascension is complete.
+>
+> **Results may vary.**
+
+
