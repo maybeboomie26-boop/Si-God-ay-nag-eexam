@@ -122,24 +122,3 @@ The signs of enlightenment include:
 *By Anonimins, For Anonimins*
 
 </div>
-
-
-
-
-
-
-
-> [!NOTE]
-> This is a note.
-
-> [!TIP]
-> This is a helpful tip.
-
-> [!IMPORTANT]
-> This is important.
-
-> [!WARNING]
-> This is a warning.
-
-> [!CAUTION]
-> This could cause problems.
