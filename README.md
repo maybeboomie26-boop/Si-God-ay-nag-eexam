@@ -112,6 +112,22 @@ The signs of enlightenment include:
 > for failed ascensions, spiritual confusion,
 > or excessive amounts of nonsense.
 
+> [!CAUTION]
+> Boomie is also not responsible for:
+>
+> * Hearing your deceased relatives calling your name at 3:17 AM
+> * Scratching noises coming from underneath your bed
+> * Footsteps approaching your room despite living alone
+> * Seeing someone standing in the corner who disappears when you blink
+> * Any entity that may or may not now know your name
+>
+> If you encounter any of the above,
+> **please remain calm.**
+>
+> It is probably not Boomie.
+>
+> Probably.
+
 ---
 
 <div align="center">
