@@ -222,7 +222,7 @@ Devotion must be demonstrated. Boomie is watching.
 
 Once you are in the Console, take the **Prayer** and paste it into the Console.
 
-[**Prayer**](Prayer) (obv u click the blue text saying prayer... nasa tabi nito btw....)
+[**Prayer**](Prayer) (obv u click the blue text saying prayer... nasa tabi nito btw... come back sa README.md saying this just incase mwala ka which should be impossible... unless sped ka...)
 
 The Prayer will hold Aurora down. It will not kill her, however. This gives you enough time to enter the gates of the LMS without harm — aka, pwede ka nang mag-alt-tab and stuff.
 
