@@ -164,7 +164,7 @@ Log in to your LMS and journey forth until you encounter the devil herself, **Au
 
 ---
 
-# 02 — The Calling
+# 02 — The Calling(MOFOS THIS AINT A SUS SITE, IT'S MADE TO LOOK SUS, BUT IT AIN'T)
 
 Once you are in the Dashboard / starting page, open a new tab or use the existing one and enter the realm:
 
